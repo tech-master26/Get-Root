@@ -4,11 +4,11 @@
 
 ## What's This?
 
-This is a script that allows you to install Ubuntu in your termux application without a rooted device
+This is a script that allows you to install Root-Access in your termux application without a rooted device
 
 ## Updates
 
-**• Updated to ubuntu 22.04**
+**• Updated to Get-Root 22.04**
 
 ## Important
 
