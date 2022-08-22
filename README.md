@@ -1,6 +1,6 @@
 # ubuntu-in-termux
 
-[![DISCORD](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://discord.gg/Xaqkdeh)
+[![Whatsapp](https://img.shields.io/badge/Chat-On%20Whatsapp-738BD7.svg?style=for-the-badge)](https://wa.me/8801629744516)
 
 ## What's This?
 
