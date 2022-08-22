@@ -1,4 +1,4 @@
-# ubuntu-in-termux
+# Get-Root
 
 [![Whatsapp](https://img.shields.io/badge/Chat-On%20Whatsapp-738BD7.svg?style=for-the-badge)](https://wa.me/8801629744516)
 
