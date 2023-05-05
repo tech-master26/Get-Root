@@ -25,6 +25,6 @@ This is a script that allows you to install Root-Access in your termux applicati
 5. Go to HOME folder: `cd ~`
 6. Download script: `git clone https://github.com/sirajul26/Get-Root.git`
 7. Go to script folder: `cd Get-Root`
-8. Give execution permission: `chmod +x ubuntu.sh`
-9. Run the script: `./ubuntu.sh -y`
+8. Give execution permission: `chmod +x install.sh`
+9. Run the script: `./install.sh -y`
 10. Now just start ubuntu: `./startubuntu.sh`
